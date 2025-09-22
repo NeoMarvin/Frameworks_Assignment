@@ -16,13 +16,12 @@ It includes both:
 * pandas
 * matplotlib
 * seaborn
-* scikit-learn (if using Iris dataset)
 * streamlit
 
 Install dependencies:
 
 ```bash
-pip install pandas matplotlib seaborn scikit-learn streamlit
+pip install pandas matplotlib seaborn streamlit
 ```
 
 ---
@@ -33,6 +32,7 @@ pip install pandas matplotlib seaborn scikit-learn streamlit
 Frameworks_Assignment/
 │── analysis.py       # Main data analysis and plots
 │── app.py            # Streamlit app
+|── region_date_metadata   # CSV Dataset
 │── README.md         # Documentation
 ```
 
